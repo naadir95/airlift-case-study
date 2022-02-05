@@ -1,2 +1,2 @@
-# airlift-case-study
-Case study for Airlift express
+# arima forecasting
+testing arima functions
